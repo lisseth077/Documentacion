@@ -77,7 +77,7 @@ Estas mejoras ayudan a que el código sea más robusto, claro y escalable. La ap
 ```java
 import java.util.ArrayList;
 
-public class UserManager {
+public class codigoMejorado{
     public static ArrayList<String> users = new ArrayList<>();
     
     public static boolean addUser(String u) {
